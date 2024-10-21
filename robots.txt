@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wletlecer.github.io/wletlecer.txt.gz
+Sitemap: https://wletlecer.github.io/app/wletlecer.txt.gz
+Sitemap: https://wletlecer.github.io/assets/wletlecer.txt.gz
+Sitemap: https://wletlecer.github.io/css/wletlecer.txt.gz
+Sitemap: https://wletlecer.github.io/includes/wletlecer.txt.gz
+Sitemap: https://wletlecer.github.io/item/wletlecer.txt.gz
+Sitemap: https://wletlecer.github.io/src/wletlecer.txt.gz
